@@ -1,3 +1,6 @@
+# Criação de FAKE API Vercel
+Vídeo seguido: https://www.youtube.com/watch?v=A--aYRbzKdU
+
 [spanish](https://github.com/SofiDevO/alurageek-API/tree/spanish)
 
 ## Deploy JSON Server to Vercel
